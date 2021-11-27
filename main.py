@@ -106,9 +106,3 @@ for i in range(5):
     browser.switch_to_default_content()
 
     browser.find_element_by_xpath('//*[@id="mG61Hd"]/div[2]/div/div[3]/div[1]/div[1]/div/span').click()
-
-# Select files
-# browser.find_element_by_xpath('//*[@id=":g.select-files-button"]/div').click()
-
-
-# browser.find_element_by_xpath('//*[@id=":g.select-files-button"]/div').send_keys('V:/Freelance/Self-Study/python/self-filling-google-form/1.jpg')
